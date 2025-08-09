@@ -3,14 +3,12 @@
 
 📌 Project Overview
 This project analyzes the sales performance of 142 employees across different regions using Excel Pivot Tables, charts, and VBA macros for interactivity.
+
 📊 Dashboard Features
 
 Pivot Table of Top 5 Sales Executives (Total Sales) — Bar Chart
-
 Pivot Table of Bottom 5 Sales Executives (Total Sales)
-
 Pivot Table of Top 5 Sales Executives (Target Hit %) — Pie Chart
-
 Pivot Table of Bottom 5 Sales Executives (Away from Target %) — Line Chart
 
 ⚡ Interactivity
