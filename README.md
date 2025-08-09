@@ -33,7 +33,6 @@ VBA Macro Automation
 
 Dashboard Design & Storytelling
 
-📷 Preview
 
 🚀 How to Use
 
